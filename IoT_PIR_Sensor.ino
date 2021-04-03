@@ -15,7 +15,7 @@ ESP8266 wifi(&EspSerial);
 char auth[] = "hKbvCD7nr_sFjyiOAoCt-HSlCnt4_GZ-";
 
 char ssid[] = "CenkayEv1";
-char pass[] = "0ebcd7a8";
+char pass[] = "*********";
 String h;
 BlynkTimer timer; 
 BLYNK_WRITE(V1)
